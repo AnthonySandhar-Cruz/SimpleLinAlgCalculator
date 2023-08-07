@@ -3,7 +3,7 @@ A calculator interface to quickly compute simple vector operations, simple matri
 
 ### Converting to .exe
 To convert this calculator application to a .exe file, first install PyInstaller using:
-```
+```bash
 pip install pyinstaller
 ```
 Then run:
