@@ -24,4 +24,4 @@ To insert a matrix, the entries in a row are seperated by spaces, and rows are s
 There is a field to input a function, and the output will be the integral of that function. When entering the function, follow it with a comma, then the variable that the function is being integrated over (ex: 3*x**2+2*x,x). Press enter to compute the result.
 
 ## Packages Used
-NumPy was used for working with arrays and calculating matrix operations. SymPy was used to compute the symbolic integrals.
+NumPy was used for working with arrays and calculating matrix operations. SymPy was used to compute the symbolic integrals. The GUI was made using the tkinter package.
