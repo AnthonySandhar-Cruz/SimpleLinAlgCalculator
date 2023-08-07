@@ -3,9 +3,13 @@ A calculator interface to quickly compute simple vector operations, simple matri
 
 ### Converting to .exe
 To convert this calculator application to a .exe file, first install PyInstaller using:
-```pip install pyinstaller```
+```
+pip install pyinstaller
+```
 Then run:
-```pyinstaller --onefile --noconsole Calculator.py```
+```
+pyinstaller --onefile --noconsole Calculator.py
+```
 
 ## Using the Calculator
 ### Vector Operations
